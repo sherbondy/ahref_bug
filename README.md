@@ -16,6 +16,12 @@ Expectation is for LiveView to leave non-phoenix component link tags alone (eg i
 Live example on fly:
 https://ancient-hill-5520.fly.dev/
 
+Even more minimal one-file repro:
+
+```
+elixir minimal.exs
+```
+
 ---
 
 To start your Phoenix server:
